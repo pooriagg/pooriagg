@@ -8,17 +8,25 @@
   </p>
 </div>
 
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/email-poor123mn%40gmail.com-blue" alt="Email" title="poor123mn@gmail.com"/>
+  <img src="https://img.shields.io/badge/telegram-https%3A%2F%2Ft.me%2FPooriaGg__eth-red" alt="Telegram" title="PooriaGg__eth"/>
+</div>
+
 ---
 
 ### :man_technologist: About Me :
 I am a Full Stack Ethereum (EVM) Developer .
-
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://simpleicons.org/icons/ethereum.svg" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity (Love)!" alt="Slidity" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://simpleicons.org/icons/chai.svg" title="Chai" alt="Chai" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://simpleicons.org/icons/mocha.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://trufflesuite.com/img/truffle-logomark.svg" title="Truffle" alt="Truffle" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://trufflesuite.com/img/ganache-logomark.svg" title="Ganache" alt="Ganache" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
