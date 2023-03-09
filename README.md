@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://thumbs.gfycat.com/EqualPowerfulKoodoo-size_restricted.gif" width="500"/>
   
-  <p>
+<!--   <p>
       <strong>
         In The Ethereum We Believe
       </strong>
-  </p>
+  </p> -->
 </div>
 
 <div id="badges" align="center">
