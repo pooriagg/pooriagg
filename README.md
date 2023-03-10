@@ -18,8 +18,11 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Ethereum (EVM) Developer .
+
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
+<br />
 <div>
   <img src="https://simpleicons.org/icons/ethereum.svg" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity (Love)!" alt="Slidity" width="40" height="40"/>&nbsp;&nbsp;
