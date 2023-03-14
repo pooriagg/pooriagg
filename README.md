@@ -26,20 +26,20 @@ I am a Full Stack Ethereum (EVM) Developer .
 ### :hammer_and_wrench: Languages and Tools :
 <br />
 <div>
-  <img src="https://simpleicons.org/icons/ethereum.svg" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity (Love)!" alt="Slidity" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://simpleicons.org/icons/chai.svg" title="Chai" alt="Chai" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://simpleicons.org/icons/mocha.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://trufflesuite.com/img/truffle-logomark.svg" title="Truffle" alt="Truffle" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://trufflesuite.com/img/ganache-logomark.svg" title="Ganache" alt="Ganache" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cryptologos.cc/logos/chainlink-link-logo.svg?v=024" title="Chainlink" alt="Chainlink" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://simpleicons.org/icons/ethereum.svg" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity (Love)!" alt="Slidity" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://simpleicons.org/icons/chai.svg" title="Chai" alt="Chai" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://simpleicons.org/icons/mocha.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://trufflesuite.com/img/truffle-logomark.svg" title="Truffle" alt="Truffle" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://trufflesuite.com/img/ganache-logomark.svg" title="Ganache" alt="Ganache" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cryptologos.cc/logos/chainlink-link-logo.svg?v=024" title="Chainlink" alt="Chainlink" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
 </div>
 
