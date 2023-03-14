@@ -29,6 +29,7 @@ I am a Full Stack Ethereum (EVM) Developer .
   <img src="https://simpleicons.org/icons/ethereum.svg" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity (Love)!" alt="Slidity" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://docs.ipfs.tech/images/ipfs-logo.svg" title="IPFS" alt="IPFS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://simpleicons.org/icons/chai.svg" title="Chai" alt="Chai" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://simpleicons.org/icons/mocha.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://trufflesuite.com/img/truffle-logomark.svg" title="Truffle" alt="Truffle" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
