@@ -30,6 +30,7 @@ I am a Full Stack Ethereum (EVM) Blockchain Developer .
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity (Love)!" alt="Slidity" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*ekpA3dXdUbEnbC_IPxT9yQ.png" title="Remix-IDE" alt="Remix-IDE" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://docs.ipfs.tech/images/ipfs-logo.svg" title="IPFS" alt="IPFS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://simpleicons.org/icons/chai.svg" title="Chai" alt="Chai" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://simpleicons.org/icons/mocha.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;&nbsp;
@@ -44,8 +45,7 @@ I am a Full Stack Ethereum (EVM) Blockchain Developer .
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cryptologos.cc/logos/chainlink-link-logo.svg?v=024" title="Chainlink" alt="Chainlink" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
-  <img src="https://assets-global.website-files.com/5f973c970bea5548ad4287ef/63dce1d6a617de7ba0a52f0f_nav-logo.svg" title="Alchemy" alt="Alchemy" width="135" height="40"/>&nbsp;&nbsp;
+  <img src="https://assets-global.website-files.com/5f973c970bea5548ad4287ef/63dce1d6a617de7ba0a52f0f_nav-logo.svg" title="Alchemy" alt="Alchemy" width="135" height="40"/>
 </div>
 
 ---
