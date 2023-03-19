@@ -27,7 +27,7 @@ I am a Full Stack Ethereum (EVM) Blockchain Developer .
 <br />
 <div>
   <img src="https://simpleicons.org/icons/ethereum.svg" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity (Love)!" alt="Slidity" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity (Love) !" alt="Slidity" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*ekpA3dXdUbEnbC_IPxT9yQ.png" title="Remix-IDE" alt="Remix-IDE" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://docs.ipfs.tech/images/ipfs-logo.svg" title="IPFS" alt="IPFS" width="40" height="40"/>&nbsp;&nbsp;
