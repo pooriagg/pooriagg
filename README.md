@@ -39,7 +39,7 @@ I am a Full Stack Ethereum (EVM) Blockchain Developer .
   <img src="https://etherscan.io/images/brandassets/etherscan-logo-circle.svg" title="Etherscan" alt="Etherscan" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/metamask-icon.svg" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://developers.ledger.com/assets/img/logos/ledger-square.svg" title="Ledger" alt="Ledger" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/O/openzeppelin-logo-2909FE553F-seeklogo.com.png" title="OpenZeppelin" alt="OpenZeppelin" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/20820676?s=100&v=4" title="OpenZeppelin" alt="OpenZeppelin" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React-JS" alt="React-JS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cryptologos.cc/logos/chainlink-link-logo.svg?v=024" title="Chainlink" alt="Chainlink" width="40" height="40"/>&nbsp;&nbsp;
