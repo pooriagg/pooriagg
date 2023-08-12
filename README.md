@@ -40,6 +40,7 @@
     <img src="https://trufflesuite.com/img/ganache-logomark.svg" title="Ganache" alt="Ganache" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://etherscan.io/images/brandassets/etherscan-logo-circle.svg" title="Etherscan" alt="Etherscan" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://support.metamask.io/hc/article_attachments/6974707389467/mceclip1.png" title="MetaMask-Flask" alt="MetaMask" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://developers.ledger.com/assets/img/logos/ledger-square.svg" title="Ledger" alt="Ledger" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://avatars.githubusercontent.com/u/20820676?s=100&v=4" title="OpenZeppelin" alt="OpenZeppelin" width="45" height="45"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React-JS" alt="React-JS" width="40" height="40"/>&nbsp;&nbsp;
