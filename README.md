@@ -38,6 +38,7 @@
     <img src="https://simpleicons.org/icons/mocha.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://trufflesuite.com/img/truffle-logomark.svg" title="Truffle" alt="Truffle" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://trufflesuite.com/img/ganache-logomark.svg" title="Ganache" alt="Ganache" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/99892494?s=280&v=4" title="Foundry" alt="Foundry" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://etherscan.io/images/brandassets/etherscan-logo-circle.svg" title="Etherscan" alt="Etherscan" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://support.metamask.io/hc/article_attachments/6974707389467/mceclip1.png" title="MetaMask-Flask" alt="MetaMask" width="40" height="40"/>&nbsp;&nbsp;
