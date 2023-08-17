@@ -48,7 +48,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React-JS" alt="React-JS" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://cdn.icon-icons.com/icons2/512/PNG/96/prog-nodejs01_icon-icons.com_50781.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://cryptologos.cc/logos/chainlink-link-logo.svg?v=024" title="Chainlink" alt="Chainlink" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://assets-global.website-files.com/5f973c970bea5548ad4287ef/63dce1d6a617de7ba0a52f0f_nav-logo.svg" title="Alchemy" alt="Alchemy" width="135" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFDwZ2awHVh81UjrJxa6zrRkWECMcDB0UE6N25TU4xXRSudhJ2p1oaE87UVYtS24iceMM&usqp=CAU" title="Alchemy" alt="Alchemy" width="42" height="42"/>
+    <img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/blkhxycyoyj4zk4trcjo" title="Infura" alt="Infura" width="45" height="45"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYw0aj4WJNxacgG27hdqsi4oDkcydNudLq7Smozf4Rvt0XxkRnxUsec1W_VZmBGz0st2w&usqp=CAU" title="Quicknode" alt="Quicknode" width="50" height="50"/>
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" title="Bootstrap" alt="Bootstrap" width="50" height="45"/>&nbsp;&nbsp;
   </div>
 
