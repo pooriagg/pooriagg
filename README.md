@@ -44,6 +44,7 @@
     <img src="https://support.metamask.io/hc/article_attachments/6974707389467/mceclip1.png" title="MetaMask-Flask" alt="MetaMask" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://developers.ledger.com/assets/img/logos/ledger-square.svg" title="Ledger" alt="Ledger" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://avatars.githubusercontent.com/u/20820676?s=100&v=4" title="OpenZeppelin" alt="OpenZeppelin" width="45" height="45"/>&nbsp;&nbsp;
+    <img src="https://pbs.twimg.com/profile_images/1576922177064112129/CcyNx_zo_400x400.jpg" title="Swarm" alt="Swarm" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React-JS" alt="React-JS" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://cdn.icon-icons.com/icons2/512/PNG/96/prog-nodejs01_icon-icons.com_50781.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://cryptologos.cc/logos/chainlink-link-logo.svg?v=024" title="Chainlink" alt="Chainlink" width="40" height="40"/>&nbsp;&nbsp;
