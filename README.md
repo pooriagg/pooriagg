@@ -4,7 +4,7 @@
 
   <!--   <p>
         <strong>
-          In The Solana We Believe
+          In The Bitcoin We Believe
         </strong>
     </p> -->
   </div>
