@@ -42,6 +42,7 @@
     <img src="https://trufflesuite.com/img/ganache-logomark.svg" title="Ganache" alt="Ganache" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://avatars.githubusercontent.com/u/99892494?s=280&v=4" title="Foundry" alt="Foundry" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://etherscan.io/images/brandassets/etherscan-logo-circle.svg" title="Etherscan" alt="Etherscan" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://3632261023-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MVOiF6Zqit57q_hxJYp%2Fuploads%2FHEjleywo9QOnfYebBPCZ%2FPhantom_SVG_Icon.svg?alt=media&token=71b80a0a-def7-4f98-ae70-5e0843fdaaec" title="Phantom" alt="Phantom" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://support.metamask.io/hc/article_attachments/6974707389467/mceclip1.png" title="MetaMask-Flask" alt="MetaMask" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://developers.ledger.com/assets/img/logos/ledger-square.svg" title="Ledger" alt="Ledger" width="40" height="40"/>&nbsp;&nbsp;
