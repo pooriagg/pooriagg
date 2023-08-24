@@ -20,7 +20,7 @@
   ---
 
   ### :man_technologist: About Me :
-  I am Full Stack Ethereum (EVM) Blockchain Developer .
+  I am Full Stack Solana And Ethereum (EVM) Blockchain Developer especially focused on NFT projects.
 
   ---
 
