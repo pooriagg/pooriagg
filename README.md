@@ -29,8 +29,8 @@
   <div align="center">
     <img src="https://cryptologos.cc/logos/solana-sol-logo.png" title="Solana" alt="Solana" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/ethereum.svg" title="Ethereum-evm" alt="Ethereum-evm" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" title="Rust (Love) !" alt="Rust" width="42" height="42"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity (Love) !" alt="Slidity" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" title="Rust" alt="Rust" width="42" height="42"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" alt="Slidity" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*ekpA3dXdUbEnbC_IPxT9yQ.png" title="Remix-IDE" alt="Remix-IDE" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/web3/web3.js/blob/1.x/assets/logo/web3js.jpg" title="Web3Js" alt="Web3Js" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
