@@ -4,7 +4,7 @@
 
   <!--   <p>
         <strong>
-          In The Bitcoin We Believe
+          In The Ethereum We Believe
         </strong>
     </p> -->
   </div>
@@ -20,7 +20,7 @@
   ---
 
   ### :man_technologist: About Me :
-  I am Full Stack Solana (soon!) And Ethereum (EVM) Blockchain Developer especially focused on NFT projects.
+  I am Full Stack Ethereum (EVM) Blockchain Developer especially focused on NFT projects.
 
   ---
 
