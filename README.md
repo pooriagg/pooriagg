@@ -1,6 +1,6 @@
 <div align="center">
   <div id="header" align="center">
-    <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd31b271c-e0bf-404b-8fb0-1fee4c41770d_682x436.gif" width="500"/>
+    <img src="https://gifdb.com/images/high/ethereum-crypto-currency-ze5wridyq212wbi8.webp" width="500"/>
 
   <!--   <p>
         <strong>
