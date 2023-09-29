@@ -1,6 +1,6 @@
 <div align="center">
   <div id="header" align="center">
-    <img src="https://thumbs.gfycat.com/EqualPowerfulKoodoo-size_restricted.gif" width="500"/>
+    <img src="https://www.antiersolutions.com/wp-content/uploads/2022/08/alpha.gif" width="500"/>
 
   <!--   <p>
         <strong>
