@@ -26,7 +26,7 @@
   ### :hammer_and_wrench: Languages and Tools :
   <br />
   <div align="center">
-    <img src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsolanaLogoMark.17260911.svg&w=128&q=75" title="Solana (future)" alt="Solana-SVM" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsolanaLogoMark.17260911.svg&w=128&q=75" title="Solana" alt="Solana-SVM" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/ethereum.svg" title="Ethereum-evm" alt="Ethereum-evm" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" alt="Slidity" width="40" height="40"/>&nbsp;&nbsp;
