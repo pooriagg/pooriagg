@@ -44,7 +44,7 @@
     <img src="https://304015554-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mgv3_8586v0mVL4zZax%2Ficon%2FWvDTo0Kodwa4awPEQrsO%2Fflarelogo.png?alt=media&token=b115a1f0-a543-4a49-828a-e3ede684055e" title="Solflare" alt="Solflare" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://support.metamask.io/hc/article_attachments/6974707389467/mceclip1.png" title="MetaMask-Flask" alt="MetaMask" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://developers.ledger.com/assets/img/logos/ledger-square.svg" title="Ledger" alt="Ledger" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYaVoLf82CBcm2vRYu4czfQQnpeGG9FFngtd0XKoO7w&s" title="Ledger" alt="Ledger" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://avatars.githubusercontent.com/u/20820676?s=100&v=4" title="OpenZeppelin" alt="OpenZeppelin" width="45" height="45"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React-JS" alt="React-JS" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://cdn.icon-icons.com/icons2/512/PNG/96/prog-nodejs01_icon-icons.com_50781.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
