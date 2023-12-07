@@ -18,12 +18,12 @@
 
   ---
 
-  ### :man_technologist: About Me :
+  About Me :
   I am Full-Stack Solana (SVM) and Ethereum (EVM) Blockchain Developer especially focused on NFT projects.
 
   ---
 
-  ### :hammer_and_wrench: Languages and Tools :
+ Languages and Tools :
   <br />
   <div align="center">
     <img src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsolanaLogoMark.17260911.svg&w=128&q=75" title="Solana" alt="Solana-SVM" width="40" height="40"/>&nbsp;&nbsp;
