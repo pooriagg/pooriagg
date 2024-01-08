@@ -53,7 +53,7 @@
     <img src="https://avatars.githubusercontent.com/u/99036110?s=280&v=4" title="Clockwork" alt="Clockwork" width="40" height="40"/>&nbsp;&nbsp;
 <!--     <img src="https://cryptologos.cc/logos/chainlink-link-logo.svg?v=024" title="Chainlink" alt="Chainlink" width="40" height="40"/>&nbsp;&nbsp; -->
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFDwZ2awHVh81UjrJxa6zrRkWECMcDB0UE6N25TU4xXRSudhJ2p1oaE87UVYtS24iceMM&usqp=CAU" title="Alchemy" alt="Alchemy" width="40" height="40"/>
-    <img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/blkhxycyoyj4zk4trcjo" title="Infura" alt="Infura" width="45" height="45"/>
+    <img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/blkhxycyoyj4zk4trcjo" title="Infura" alt="Infura" width="40" height="40"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYw0aj4WJNxacgG27hdqsi4oDkcydNudLq7Smozf4Rvt0XxkRnxUsec1W_VZmBGz0st2w&usqp=CAU" title="Quicknode" alt="Quicknode" width="50" height="50"/>
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" title="Bootstrap" alt="Bootstrap" width="50" height="45"/>&nbsp;&nbsp;
   </div>
