@@ -13,7 +13,6 @@
 
   <div id="badges" align="center">
     <img src="https://img.shields.io/badge/email-poor123mn%40gmail.com-blue" alt="Email" title="poor123mn@gmail.com"/>
-    <img src="https://img.shields.io/badge/telegram-https%3A%2F%2Ft.me%2FPooriaGg__eth-red" alt="Telegram" title="PooriaGg__eth"/>
   </div>
 
   ---
