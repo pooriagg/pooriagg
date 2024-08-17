@@ -15,6 +15,10 @@
     <img src="https://img.shields.io/badge/email-poor123mn%40gmail.com-blue" alt="Email" title="poor123mn@gmail.com"/>
   </div>
 
+  <div id="badges" align="center">
+    <img src="https://img.shields.io/badge/telegram-@pooriaSol-yellow" alt="Telegram" title="@pooriaSol"/>
+  </div>
+
   ---
 
   About Me :
