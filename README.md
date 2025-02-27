@@ -30,7 +30,7 @@
  Languages and Tools :
   <br />
   <div align="center">
-    <img src="https://solana.com/_next/static/media/solanaLogoMark.17260911.svg" title="Solana" alt="Solana-SVM" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://solana.com/src/img/branding/solanaLogo.svg" title="Solana" alt="Solana-SVM" width="120" height="40"/>&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/web3/web3.js/blob/1.x/assets/logo/web3js.jpg" title="solana-web3.js" alt="Web3Js" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
@@ -42,10 +42,9 @@
     <img src="https://304015554-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mgv3_8586v0mVL4zZax%2Ficon%2FWvDTo0Kodwa4awPEQrsO%2Fflarelogo.png?alt=media&token=b115a1f0-a543-4a49-828a-e3ede684055e" title="Solflare" alt="Solflare" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYaVoLf82CBcm2vRYu4czfQQnpeGG9FFngtd0XKoO7w&s" title="Ledger" alt="Ledger" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React-JS" alt="React-JS" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://cdn.icon-icons.com/icons2/512/PNG/96/prog-nodejs01_icon-icons.com_50781.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCodCp-cYwcl3YZM49XsRf7VAmUnvJ_y21NQ&s" title="Telegram bot" alt="Telegram bot" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://assets-global.website-files.com/6364e65656ab107e465325d2/63fce301f958a11be44ee780_trJIyRHle-zMiKV00iwgIa4zO8W9y5cmH2YTHt9ZnDU.jpeg" title="Pyth" alt="Pyth" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFDwZ2awHVh81UjrJxa6zrRkWECMcDB0UE6N25TU4xXRSudhJ2p1oaE87UVYtS24iceMM&usqp=CAU" title="Alchemy" alt="Alchemy" width="40" height="40"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYw0aj4WJNxacgG27hdqsi4oDkcydNudLq7Smozf4Rvt0XxkRnxUsec1W_VZmBGz0st2w&usqp=CAU" title="Quicknode" alt="Quicknode" width="50" height="50"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYw0aj4WJNxacgG27hdqsi4oDkcydNudLq7Smozf4Rvt0XxkRnxUsec1W_VZmBGz0st2w&usqp=CAU" title="Quicknode" alt="Quicknode" width="40" height="40"/>
   </div>
 
   ---
