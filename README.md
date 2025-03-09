@@ -23,7 +23,7 @@
 
   About Me :
   <br />
-  I am Full-Stack Solana (SVM) Blockchain Developer especially focused on NFT projects. (Familiar with Ethereum (EVM))
+  I am Full-Stack Solana (SVM) Blockchain Developer. (Familiar with Ethereum (EVM))
 
   ---
 
