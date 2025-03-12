@@ -44,7 +44,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React-JS" alt="React-JS" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCodCp-cYwcl3YZM49XsRf7VAmUnvJ_y21NQ&s" title="Telegram bot" alt="Telegram bot" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://assets-global.website-files.com/6364e65656ab107e465325d2/63fce301f958a11be44ee780_trJIyRHle-zMiKV00iwgIa4zO8W9y5cmH2YTHt9ZnDU.jpeg" title="Pyth" alt="Pyth" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYw0aj4WJNxacgG27hdqsi4oDkcydNudLq7Smozf4Rvt0XxkRnxUsec1W_VZmBGz0st2w&usqp=CAU" title="Quicknode" alt="Quicknode" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9uzErWz9EXqZDxZ5lP9aYpMz8eK6rr5X3w&s" title="Nextjs" alt="Nextjs" width="40" height="40"/>
   </div>
 
   ---
