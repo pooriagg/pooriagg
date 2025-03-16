@@ -42,7 +42,7 @@
     <img src="https://304015554-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mgv3_8586v0mVL4zZax%2Ficon%2FWvDTo0Kodwa4awPEQrsO%2Fflarelogo.png?alt=media&token=b115a1f0-a543-4a49-828a-e3ede684055e" title="Solflare" alt="Solflare" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYaVoLf82CBcm2vRYu4czfQQnpeGG9FFngtd0XKoO7w&s" title="Ledger" alt="Ledger" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React-JS" alt="React-JS" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCodCp-cYwcl3YZM49XsRf7VAmUnvJ_y21NQ&s" title="Telegram bot" alt="Telegram bot" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://developers.moralis.com/wp-content/uploads/web3wiki/383-jito-labs/637addbc88eca622446a0718_EUxhSvvlD0ACa1oLK-6Vos_HoB1e-FF55Y54WfeE8JY-300x300.jpeg" title="Jito" alt="Jito" width="45" height="45"/>&nbsp;&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9uzErWz9EXqZDxZ5lP9aYpMz8eK6rr5X3w&s" title="Nextjs" alt="Nextjs" width="45" height="45"/>
     <img src="https://assets-global.website-files.com/6364e65656ab107e465325d2/63fce301f958a11be44ee780_trJIyRHle-zMiKV00iwgIa4zO8W9y5cmH2YTHt9ZnDU.jpeg" title="Pyth network" alt="Pyth network" width="45" height="45"/>&nbsp;&nbsp;
   </div>
