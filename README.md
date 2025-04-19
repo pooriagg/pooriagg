@@ -4,12 +4,18 @@
 
   <!--   <p>
         <strong>
-          In The Solana We Believe
+          In Solana We Believe
         </strong>
     </p> -->
   </div>
 
   <br />
+
+  About Me :
+  <br />
+  Solana Blockchain Developer. (Solana lover)
+
+  ---
 
   <div id="badges" align="center">
     <img src="https://img.shields.io/badge/email-poor123mn%40gmail.com-blue" alt="Email" title="poor123mn@gmail.com"/>
@@ -18,12 +24,6 @@
   <div id="badges" align="center">
     <img src="https://img.shields.io/badge/telegram-@pooriaSol-yellow" alt="Telegram" title="@pooriaSol"/>
   </div>
-
-  ---
-
-  About Me :
-  <br />
-  Solana Blockchain Developer. (Solana lover)
 
   ---
 
