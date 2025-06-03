@@ -36,13 +36,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://docs.ipfs.tech/images/ipfs-logo.svg" title="IPFS" alt="IPFS" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/chai.svg" title="Chai" alt="Chai" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/mocha.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://private-user-images.githubusercontent.com/729235/355061608-3a1894b4-403f-4c35-90aa-548e7672fe90.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg4NTQzNTYsIm5iZiI6MTc0ODg1NDA1NiwicGF0aCI6Ii83MjkyMzUvMzU1MDYxNjA4LTNhMTg5NGI0LTQwM2YtNGMzNS05MGFhLTU0OGU3NjcyZmU5MC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwMlQwODQ3MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNzUxNTFmZGYzZDUzNjNkYzgyZjAyNTYxN2U3NDExYjMwNWE2ODIwYWUyNjA1Zjk2MTE1MGU5YmQ2Y2VjNjkxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kBxzMOaMbk_fzZj1RP6XYaPmNYXtNkSoBtb_VSp53Ic" title="Pinocchio" alt="Pinocchio" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYaVoLf82CBcm2vRYu4czfQQnpeGG9FFngtd0XKoO7w&s" title="Ledger" alt="Ledger" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://developers.moralis.com/wp-content/uploads/web3wiki/383-jito-labs/637addbc88eca622446a0718_EUxhSvvlD0ACa1oLK-6Vos_HoB1e-FF55Y54WfeE8JY-300x300.jpeg" title="Jito" alt="Jito" width="45" height="45"/>&nbsp;&nbsp;
-    <img src="https://assets-global.website-files.com/6364e65656ab107e465325d2/63fce301f958a11be44ee780_trJIyRHle-zMiKV00iwgIa4zO8W9y5cmH2YTHt9ZnDU.jpeg" title="Pyth network" alt="Pyth network" width="45" height="45"/>&nbsp;&nbsp;
   </div>
 
   ---
