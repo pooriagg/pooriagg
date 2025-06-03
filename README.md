@@ -11,7 +11,6 @@
 
   <br />
 
-  About Me :
   <br />
   Solana Blockchain Developer. (Solana lover)
 
@@ -27,7 +26,6 @@
 
   ---
 
- Languages and Tools :
   <br />
   <div align="center">
     <img src="https://solana.com/src/img/branding/solanaLogo.svg" title="Solana" alt="Solana-SVM" width="120" height="40"/>&nbsp;&nbsp;
@@ -41,6 +39,5 @@
 
   ---
 
-  ### :fire: My Stats :
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooriagg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
