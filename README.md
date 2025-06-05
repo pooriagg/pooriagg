@@ -29,7 +29,6 @@
   <br />
   <div align="center">
     <img src="https://solana.com/src/img/branding/solanaLogo.svg" title="Solana" alt="Solana-SVM" width="120" height="40"/>&nbsp;&nbsp;
-    <img src="https://avatars.githubusercontent.com/u/84874526?s=48&v=4" title="Metaplex" alt="Metaplex" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/web3/web3.js/blob/1.x/assets/logo/web3js.jpg" title="solana-kit" alt="Web3Js" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
