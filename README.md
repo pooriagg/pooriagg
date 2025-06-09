@@ -12,7 +12,7 @@
   <br />
 
   <br />
-  Solana Blockchain Developer. (Solana lover)
+  Solana Blockchain Developer. (Solana maxi)
 
   ---
 
