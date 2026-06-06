@@ -29,11 +29,7 @@
   <br />
   <div align="center">
     <img src="https://solana.com/src/img/branding/solanaLogo.svg" title="Solana" alt="Solana-SVM" width="120" height="40"/>&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" title="Rust" alt="Rust" width="45" height="45"/>&nbsp;&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;
   </div>
-
-  ---
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooriagg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
