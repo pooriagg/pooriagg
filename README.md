@@ -21,7 +21,7 @@
   </div>
 
   <div id="badges" align="center">
-    <img src="https://img.shields.io/badge/telegram-@pooriaSol-yellow" alt="Telegram" title="@pooriaSol"/>
+    <img src="https://img.shields.io/badge/telegram-@pooriaSol-yellow" alt="Telegram" title="@pooriagg"/>
   </div>
 
   ---
