@@ -23,6 +23,10 @@
   <div id="badges" align="center">
     <img src="https://img.shields.io/badge/telegram-@pooriagg-yellow" alt="Telegram" title="@pooriagg"/>
   </div>
+  
+  <div id="badges" align="center">
+    <img src="https://img.shields.io/badge/discord-@pooriagg-purple" alt="Discord" title="@pooriagg"/>
+  </div>
 
   ---
 
