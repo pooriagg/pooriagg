@@ -12,7 +12,7 @@
   <br />
 
   <br />
-  Solana Blockchain Developer. (Solana maxi)
+  Solana Blockchain Developer. (Solana OG)
 
   ---
 
