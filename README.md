@@ -12,7 +12,7 @@
   <br />
 
   <br />
-  Solana Blockchain Developer. (Solana OG)
+  Solana Blockchain Developer
 
   ---
 
