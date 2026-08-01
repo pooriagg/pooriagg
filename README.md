@@ -12,9 +12,9 @@
   <br />
 
   <br />
-  Solana Blockchain Developer
+  <p> Solana Blockchain Developer </p>
 
-  ---
+  <br/>
 
   <div id="badges" align="center">
     <img src="https://img.shields.io/badge/email-poor123mn%40gmail.com-blue" alt="Email" title="poor123mn@gmail.com"/>
