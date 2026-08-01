@@ -36,4 +36,8 @@
     <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" title="Rust" alt="Rust" width="45" height="45"/>&nbsp;&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;
   </div>
+  
+  <br/>
+  
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=pooriagg&layout=compact)
 </div>
