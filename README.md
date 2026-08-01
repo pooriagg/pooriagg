@@ -1,5 +1,6 @@
 <div align="center">
   <div id="header" align="center">
+    
 <!--     <img src="https://gifdb.com/images/high/ethereum-crypto-currency-ze5wridyq212wbi8.webp" width="500"/> -->
 
   <!--   <p>
@@ -7,6 +8,7 @@
           In Solana We Believe
         </strong>
     </p> -->
+    
   </div>
 
   <br />
